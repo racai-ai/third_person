@@ -1,0 +1,13 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vrea să știe unde este plecat.
+1	Vrea	vrea	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
+2	să	să	PART	Qs	Mood=Sub	3	mark	_	_
+3	știe	ști	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	1	acl	_	_
+4	unde	unde	ADV	Rw	PronType=Int,Rel	6	advmod	_	_
+5	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
+6	plecat	pleca	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	3	obj	_	SpaceAfter=No
+7	.	.	PUNCT	PERIOD	_	1	punct	_	SpaceAfter=No
+

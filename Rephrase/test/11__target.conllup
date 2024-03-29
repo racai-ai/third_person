@@ -1,0 +1,12 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ei au realizat o lucrare.
+1	Ei	el	PRON	Pp3mpr--------s	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	3	nsubj	_	_
+2	au	avea	AUX	Va--3p	Number=Plur|Person=3	3	aux	_	_
+3	realizat	realiza	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_
+5	lucrare	lucrare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+6	.	.	PUNCT	PERIOD	_	3	punct	_	SpaceAfter=No
+

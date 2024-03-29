@@ -1,0 +1,91 @@
+ăi	vrea	Va--2s	ăi	ăi	@ j
+ăți	vrea	Va--2p	ăți	'ăți	@ ts i_0
+om	vrea	Va--1p	om	om	o m
+or	vrea	Va--3p	or	or	o r
+va	vrea	Va--3s	va	va	v a
+vei	vrea	Va--2s	vei	vei	v e j
+veți	vrea	Va--2p	veți	v'eți	v e ts i_0
+vom	vrea	Va--1p	vom	vom	v o m
+vor	vrea	Va--3p	vor	vor	v o r
+degivrează	degivra	Vmip3	de.gi.vrea.ză	degivre'ază	d e gZ i v r e_X a z @
+degivrează	degivra	Vmm-2s	de.gi.vrea.ză	degivre'ază	d e gZ i v r e_X a z @
+eți	vrea	Va--2p	eți	'eți	e ts i_0
+livrează	livra	Vmip3	li.vrea.ză	livre'ază	l i v r e_X a z @
+livrează	livra	Vmm-2s	li.vrea.ză	livre'ază	l i v r e_X a z @
+manevrează	manevra	Vmip3	ma.ne.vrea.ză	manevre'ază	m a n e v r e_X a z @
+manevrează	manevra	Vmm-2s	ma.ne.vrea.ză	manevre'ază	m a n e v r e_X a z @
+nemaivrut	vrea	Vmp--sm	ne.mai.vrut	nemaivr'ut	n e m a j v r u t
+nemaivrute	vrea	Vmp--pf	ne.mai.vru.te	nemaivr'ute	n e m a j v r u t e
+nemaivrută	vrea	Vmp--sf	ne.mai.vru.tă	nemaivr'ută	n e m a j v r u t @
+nemaivruți	vrea	Vmp--pm	ne.mai.vruți	nemaivr'uți	n e m a j v r u ts i_0
+nemaivrând	vrea	Vmg	ne.mai.vrând	nemaivr'ând	n e m a j v r 1 n d
+nevrând	vrea	Vmg	ne.vrând	nevr'ând	n e v r 1 n d
+o	vrea	Va--3s	o	o	o
+oți	vrea	Vmip2p	oți	'oți	o ts i_0
+oi	vrea	Va--1s	oi	oi	o j
+oi	vrea	Va--2s	oi	oi	o j
+voi	vrea	Va--1s	voi	voi	v o j
+vor	vrea	Vmip3p	vor	vor	v o r
+vra	vrea	Vmii3s	vra	vr'a	v r a
+vra	vrea	Vmip3s	vra	vr'a	v r a
+vra	vrea	Vmnp	vra	vr'a	v r a
+vrai	vrea	Vmii2s	vrai	vr'ai	v r a j
+vrai	vrea	Vmip2s	vrai	vr'ai	v r a j
+vram	vrea	Vmii1	vram	vr'am	v r a m
+vrau	vrea	Vmii3p	vrau	vr'au	v r a w
+vrau	vrea	Vmip1s	vrau	vr'au	v r a w
+vrau	vrea	Vmip3p	vrau	vr'au	v r a w
+vrați	vrea	Vmii2p	vrați	vr'ați	v r a ts i_0
+vre	vrea	Vmsp3-----y	vre	vre	v r e
+vreți	vrea	Vmip2p	vreți	vreți	v r e ts i_0
+vrea	=	Vmii3s	vrea	vrea	v r e_X a
+vrea	=	Vmip3s	vrea	vrea	v r e_X a
+vrea	=	Vmnp	vrea	vrea	v r e_X a
+vrea	=	Vmsp3	vrea	vrea	v r e_X a
+vreai	vrea	Vmii2s	vreai	vreai	v r e_X a j
+vream	vrea	Vmii1	vream	vream	v r e_X a m
+vreau	vrea	Vmii3p	vreau	vreau	v r e_X a w
+vreau	vrea	Vmip1s	vreau	vreau	v r e_X a w
+vreați	vrea	Vmii2p	vreați	vreați	v r e_X a ts i_0
+vrei	vrea	Vmip2s	vrei	vrei	v r e j
+vreie	vrea	Vmsp3	vre.ie	vr'eie	v r e j e
+vrem	vrea	Vmip1p	vrem	vrem	v r e m
+vroia	vrea	Vmii3s	vro.ia	vroi'a	v r o j a
+vroiai	vrea	Vmii2s	vro.iai	vroi'ai	v r o j a j
+vroiam	vrea	Vmii1	vro.iam	vroi'am	v r o j a m
+vroiam	vrea	Vmii3p	vro.iam	vroi'am	v r o j a m
+vroiau	vrea	Vmii3p	vro.iau	vroi'au	v r o j a w
+vroiați	vrea	Vmii2p	vro.iați	vroi'ați	v r o j a ts i_0
+vroise	vrea	Vmil3s	vro.i.se	vro'ise	v r o i s e
+vroisem	vrea	Vmil1s	vro.i.sem	vro'isem	v r o i s e m
+vroiseră	vrea	Vmil3p	vro.i.se.ră	vro'iseră	v r o i s e r @
+vroiserăți	vrea	Vmil2p	vro.i.se.răți	vro'iserăți	v r o i s e r @ ts i_0
+vroiseși	vrea	Vmil2s	vro.i.seși	vro'iseși	v r o i s e S i_0
+vru	vrea	Vmis3s	vru	vru	v r u
+vrui	vrea	Vmis1s	vrui	vrui	v r u j
+vrură	vrea	Vmis3p	vru.ră	vr'ură	v r u r @
+vrurăm	vrea	Vmis1p	vru.răm	vr'urăm	v r u r @ m
+vrurăți	vrea	Vmis2p	vru.răți	vr'urăți	v r u r @ ts i_0
+vruse	vrea	Vmil3s	vru.se	vr'use	v r u s e
+vrusei	vrea	Vmis1s	vru.sei	vrus'ei	v r u s e j
+vrusem	vrea	Vmil1	vru.sem	vr'usem	v r u s e m
+vruseră	vrea	Vmil3p	vru.se.ră	vr'useră	v r u s e r @
+vruserăm	vrea	Vmil1p	vru.se.răm	vr'userăm	v r u s e r @ m
+vruserăți	vrea	Vmil2p	vru.se.răți	vr'userăți	v r u s e r @ ts i_0
+vrusese	vrea	Vmil3s	vru.se.se	vr'usese	v r u s e s e
+vrusesem	vrea	Vmil1	vru.se.sem	vr'usesem	v r u s e s e m
+vruseseră	vrea	Vmil3p	vru.se.se.ră	vr'useseră	v r u s e s e r @
+vruseserăm	vrea	Vmil1p	vru.se.se.răm	vr'useserăm	v r u s e s e r @ m
+vruseserăți	vrea	Vmil2p	vru.se.se.răți	vr'useserăți	v r u s e s e r @ ts i_0
+vruseseși	vrea	Vmil2s	vru.se.seși	vr'useseși	v r u s e s e S i_0
+vruseseți	vrea	Vmil2p	vru.se.seți	vrus'eseți	v r u s e s e ts i_0
+vruseși	vrea	Vmil2s	vru.seși	vr'useși	v r u s e S i_0
+vruseți	vrea	Vmil2p	vru.seți	vr'useți	v r u s e ts i_0
+vrut	vrea	Vmp--sm	vrut	vrut	v r u t
+vrute	vrea	Vmp--pf	vru.te	vr'ute	v r u t e
+vrută	vrea	Vmp--sf	vru.tă	vr'ută	v r u t @
+vruși	vrea	Vmis2s	vruși	vruși	v r u S i_0
+vruți	vrea	Vmp--pm	vruți	vruți	v r u ts i_0
+vrând	vrea	Vmg	vrând	vrând	v r 1 n d
+vrându	vrea	Vmg-------y	vrân.du	vr'ându	v r 1 n d u
+îți	vrea	Va--2p	îți	îți	1 ts i_0
