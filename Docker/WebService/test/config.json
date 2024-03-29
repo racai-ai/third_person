@@ -11,7 +11,8 @@
 "pipeline":[
     {"port":8001,"args":[
         {"key":"input", "value":"DOCX"},
-        {"key":"output", "value":"1_TOKENIZED"}
+        {"key":"output", "value":"1_TOKENIZED"},
+	{"key":"type", "value":"TYPE"}
     ]},
 
     {"port":8002,"args":[
@@ -22,7 +23,8 @@
     {"port":8003,"args":[
         {"key":"input", "value":"2_THIRDPERSON"},
         {"key":"output", "value":"OUTPUT"},
-        {"key":"original", "value":"DOCX"}
+        {"key":"original", "value":"DOCX"},
+	{"key":"type", "value":"TYPE"}
     ]}
 ]
 
