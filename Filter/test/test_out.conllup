@@ -1,0 +1,7 @@
+1	Vreau	vrea	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_	O	O
+2	să	să	PART	Qs	Mood=Sub	3	mark	_	_	O	O
+3	știu	ști	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	_	O	O
+4	unde	unde	ADV	Rw	PronType=Int,Rel	6	advmod	_	_	O	O
+5	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_	O	O
+6	plecat	pleca	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	3	ccomp	_	SpaceAfter=No	O	O
+7	.	.	PUNCT	PERIOD	_	1	punct	_	SpaceAfter=No	O	O
