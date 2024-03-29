@@ -24,12 +24,12 @@
     {"port":8003,"args":[
         {"key":"input", "value":"2_THIRDPERSON"},
         {"key":"output", "value":"3_FILTER"},
-        {"key":"action", "value":"addcolumns"},
-	{"key":"columns", "value":"10:11"}
+        {"key":"action", "value":":addcolumns"},
+	{"key":"columns", "value":":12:13"}
     ]},
 
     {"port":8004,"args":[
-        {"key":"input", "value":"2_THIRDPERSON"},
+        {"key":"input", "value":"3_FILTER"},
         {"key":"output", "value":"OUTPUT"},
         {"key":"original", "value":"DOCX"},
 	{"key":"type", "value":"TYPE"}
