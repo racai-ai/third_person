@@ -115,14 +115,16 @@ function runTask($pathNew, $pathDone){
 			$value=$arg['value'];
                         if(!is_array($value)){
 			    if(!isset($data[$value])){
-				$data[$value]="${TASK_DIR_RUN}${value}";
+				if(startsWith($value,":"))$data[$value]=substr($value,1);
+				else $data[$value]="${TASK_DIR_RUN}${value}";
 			    }
 			    $stepData[$key]=$data[$value];
                         }else{
                             $stepData[$key]=[];
                             foreach($value as $v){
 			        if(!isset($data[$v])){
-				    $data[$v]="${TASK_DIR_RUN}${v}";
+				    if(startsWith($v,":"))$data[$v]=substr($v,1);
+				    else $data[$v]="${TASK_DIR_RUN}${v}";
 			        }
 			        $stepData[$key][]=$data[$v];
                             }

@@ -25,6 +25,7 @@ RUN source /venv-3.11/bin/activate && pip3 install --upgrade pip &&  pip3 instal
 # RNER
 #RUN source /venv-3.8/bin/activate && pip3 install --upgrade pip &&  pip3 install -r /modules/RNER/requirements.txt && pip3 install torch==1.7.1+cpu --index-url https://download.pytorch.org/whl/cpu && pip3 install rwpt scikit-learn spacy flask
 COPY --from=intermediate /third_person/Rephrase/ /Rephrase/
+COPY --from=intermediate /third_person/Filter/ /Filter/
 
 # Setup site
 COPY --from=intermediate /third_person/WebService/web/ /site/
