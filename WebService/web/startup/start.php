@@ -23,11 +23,11 @@ echo "Creating folders and setting access rights\n";
 @mkdir($TASK_DIR_DONE);
 @mkdir($TASK_DIR_RUN);
 @mkdir($MAP_DIR);
-shell_exec("chown www-data:www-data ${TASK_DIR_NEW}");
-shell_exec("chown www-data:www-data ${TASK_DIR_NEW_PRIO}");
-shell_exec("chown www-data:www-data ${TASK_DIR_DONE}");
-shell_exec("chown www-data:www-data ${TASK_DIR_RUN}");
-shell_exec("chown www-data:www-data ${MAP_DIR}");
+shell_exec("chown apache:apache ${TASK_DIR_NEW}");
+shell_exec("chown apache:apache ${TASK_DIR_NEW_PRIO}");
+shell_exec("chown apache:apache ${TASK_DIR_DONE}");
+shell_exec("chown apache:apache ${TASK_DIR_RUN}");
+shell_exec("chown apache:apache ${MAP_DIR}");
 echo "Done\n";
 
 function checkTasksPrio(){

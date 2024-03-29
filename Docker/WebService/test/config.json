@@ -3,9 +3,9 @@
 "version":"1.0-test",
 
 "modules":[
-    "source /venv-3.11/bin/activate ; cd /modules/TextExtractor ; python textExtractor_api.py --RUN_ANALYSIS --SAVE_INTERNAL_FILES --udpipe_model /data/udpipe.model.ud 8001 2>&1 | /usr/bin/rotatelogs -l /var/log/8001-%Y-%m-%d.log 86400",
-    "cd /Rephrase ; /usr/bin/java -Xms256m -Xmx2048m -cp /Rephrase/rephrase.jar ThirdPerson.Server 8002 /data/rolex.txt 2>&1 | /usr/bin/rotatelogs -l /var/log/8002-%Y-%m-%d.log 86400",
-    "source /venv-3.11/bin/activate ; cd /modules/TextReconstruction ; python textReconstruction_api.py 8003 2>&1 | /usr/bin/rotatelogs -l /var/log/8003-%Y-%m-%d.log 86400"
+    "source /venv-3.11/bin/activate ; cd /modules/TextExtractor ; python textExtractor_api.py --RUN_ANALYSIS --SAVE_INTERNAL_FILES --udpipe_model /data/udpipe.model.ud 8001 2>&1 | /usr/sbin/rotatelogs -l /var/log/8001-%Y-%m-%d.log 86400",
+    "cd /Rephrase ; /usr/bin/java -Xms256m -Xmx2048m -cp /Rephrase/rephrase.jar ThirdPerson.Server 8002 /data/rolex.txt 2>&1 | /usr/sbin/rotatelogs -l /var/log/8002-%Y-%m-%d.log 86400",
+    "source /venv-3.11/bin/activate ; cd /modules/TextReconstruction ; python textReconstruction_api.py 8003 2>&1 | /usr/sbin/rotatelogs -l /var/log/8003-%Y-%m-%d.log 86400"
 ],
 
 "pipeline":[

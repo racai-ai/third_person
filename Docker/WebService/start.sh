@@ -1,12 +1,12 @@
 #!/bin/sh
 
-mkdir -p /data/tmp/thirdperson-run/logs/apache2
+mkdir -p /data/tmp/thirdperson-run/logs/httpd
+mkdir -p /data/tmp/thirdperson-run/logs/php-fpm
 mkdir -p /data/tmp/thirdperson-run/data
 mkdir -p /data/tmp/thirdperson-run/data/tasks
 mkdir -p /data/tmp/thirdperson-run/data/tasks/new
 mkdir -p /data/tmp/thirdperson-run/data/tasks/done
 mkdir -p /data/tmp/thirdperson-run/data/tasks/run
-mkdir -p /data/tmp/thirdperson-run/data/cases
 
 if [ ! -f /data/tmp/thirdperson-run/data/config.json ]; then
     cp test/config.json /data/tmp/thirdperson-run/data/config.json
