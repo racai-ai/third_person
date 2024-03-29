@@ -300,9 +300,11 @@ public class Server {
 			
 			if(action.equalsIgnoreCase("addcolumns")) {
 				String newColumns=jsonData.getString("columns");
-				String defaultValue=jsonData.optString("value", "_");
+				String defaultValue=jsonData.optString("defaultvalue", "_");
+				String values=jsonData.optString("values", "");
 
 				String[] newColumnsData=newColumns.split("[:]");
+				String[] columnValues=values.split("[:]");
 				
 				CONLLUPReader in=new CONLLUPReader(Paths.get(input));
 				
@@ -317,7 +319,7 @@ public class Server {
 						columns
 				); // new ArrayList<String>());
 
-				FilterAddColumnsProcessor proc=new FilterAddColumnsProcessor(newColumnsData, defaultValue);
+				FilterAddColumnsProcessor proc=new FilterAddColumnsProcessor(newColumnsData, defaultValue, columnValues);
 				proc.processDocument(in, out);
 				
 				in.close();
