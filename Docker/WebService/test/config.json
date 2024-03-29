@@ -13,7 +13,7 @@
     {"port":8001,"args":[
         {"key":"input", "value":"DOCX"},
         {"key":"output", "value":"1_TOKENIZED"},
-	{"key":"type", "value":"TYPE"}
+        {"key":"type", "value":"TYPE"}
     ]},
 
     {"port":8002,"args":[
@@ -25,14 +25,15 @@
         {"key":"input", "value":"2_THIRDPERSON"},
         {"key":"output", "value":"3_FILTER"},
         {"key":"action", "value":":addcolumns"},
-	{"key":"columns", "value":":12:13"}
+        {"key":"columns", "value":":12:13"},
+        {"key":"values", "value":"::$1"}
     ]},
 
     {"port":8004,"args":[
         {"key":"input", "value":"3_FILTER"},
         {"key":"output", "value":"OUTPUT"},
         {"key":"original", "value":"DOCX"},
-	{"key":"type", "value":"TYPE"}
+        {"key":"type", "value":"TYPE"}
     ]}
 ]
 
